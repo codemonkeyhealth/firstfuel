@@ -12,4 +12,4 @@ Use ready to eat vegan bars or vegan protein mixes while developing the habit.  
 
 > [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "WakeandFlush") and FirstFuel are two basics that will make [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler"), [WorkDay](https://github.com/codemonkeyhealth/workday "WorkDay"), and [Hydrator](https://github.com/codemonkeyhealth/hydrator "Hydrator") run better.
 
-Extra tools for WakeandFlush and FirstFuel can be found at [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+Extra tools for WakeandFlush and FirstFuel can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
