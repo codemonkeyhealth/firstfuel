@@ -10,6 +10,6 @@ Use 100% plant based sources for this fuel up. 30% of calories from complex carb
 #### Beginners: ####
 Use ready to eat vegan bars or vegan protein mixes while developing the habit.  Progress to homemade bars, whole food smoothies or quinoa breakfast wraps as your habit develops.
 
-> WakeandFlush and FirstFuel are two basics that will make Scheduler, WorkDay, and Hydrator run better.
+> [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "WakeandFlush") and FirstFuel are two basics that will make [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler"), [WorkDay](https://github.com/codemonkeyhealth/workday "WorkDay"), and [Hydrator](https://github.com/codemonkeyhealth/hydrator "Hydrator") run better.
 
 Extra tools for WakeandFlush and FirstFuel can be found at [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
